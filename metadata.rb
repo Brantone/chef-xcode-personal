@@ -1,6 +1,6 @@
 name 'chef-xcode'
-maintainer '#DI DevOps Engineers'
-maintainer_email 'DIDevOpsEngineers@disney.com'
+maintainer 'Brantone'
+maintainer_email 'brantone@letrabb.com'
 license 'All rights reserved'
 description 'Installs/Configures Xcode'
 long_description 'Installs/Configures Xcode'
